@@ -4,3 +4,5 @@ If you have studied old reports, you should know how to decrypt these HTTP reque
 
 ![image](https://github.com/user-attachments/assets/9e74c7ce-a3e7-4baf-9dd0-845b5a93c195)
 
+
+![image](https://github.com/user-attachments/assets/0316a349-190c-4980-a755-7a84afb34ae2)
